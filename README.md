@@ -1,2 +1,2 @@
-# react-babel-webpack
+# React-babel-webpack
 This is the project use bable and webpack
